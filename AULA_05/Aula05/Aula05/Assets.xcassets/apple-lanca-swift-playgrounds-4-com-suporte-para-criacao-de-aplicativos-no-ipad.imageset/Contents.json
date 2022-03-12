@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "apple-lanca-swift-playgrounds-4-com-suporte-para-criacao-de-aplicativos-no-ipad.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
